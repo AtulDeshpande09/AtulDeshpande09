@@ -12,10 +12,9 @@
 ![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtulDeshpande09&theme=nord_dark)
 ![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AtulDeshpande09&theme=nord_dark)
 ![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AtulDeshpande09&theme=nord_dark)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AtulDeshpande09&theme=nord_dark)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AtulDeshpande09&theme=nord_dark&utcOffset=8)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AtulDeshpande09&theme=tokyonight&border_radius=6&mode=weekly&card_width=700&card_height=200)](https://git.io/streak-stats)
-
+![Atul's github stats](https://github-readme-stats.vercel.app/api?username=AtulDeshpande09&count_private=true&show_icons=true&theme=tokyonight)
+<br>
 
 
 
