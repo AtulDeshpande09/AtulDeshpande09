@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=AtulDeshpande09)
 - 👋 Hi, I’m Atul Deshpande
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Computer science engineering with specialization in Machine Learning
