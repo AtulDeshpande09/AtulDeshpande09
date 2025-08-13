@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=AtulDeshpande09)
 - 👋 Hi, I’m Atul Deshpande
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Computer science engineering with specialization in Machine Learning
@@ -18,7 +17,7 @@
 <br>
 
 
-
+![](https://komarev.com/ghpvc/?username=AtulDeshpande09)
 <!---
 AtulDeshpande09/AtulDeshpande09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
