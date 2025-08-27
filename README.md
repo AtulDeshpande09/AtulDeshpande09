@@ -5,9 +5,11 @@
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
-      <h1>
+      <h2>Can I have your  $\text{Softmax}(\frac{QK^T}{\sqrt{d_k}})$     please ??? </h2> 
+      <div></div>
+      <h3>
         👋 Hi my name is <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=435&lines=Atul" alt="Typing SVG" />
-      </h1>
+      </h3>
     </summary>
   </ul>
 </div>
