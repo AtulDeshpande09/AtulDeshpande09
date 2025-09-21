@@ -39,26 +39,6 @@ Building with LangChain, Hugging Face & modern ML tools</h3>**
 
 
 
-<p align="left">
-<a href="https://github.com/AtulDeshpande09/Fine-tuned-Economics-QA-using-smolLM"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulDeshpande09&repo=Fine-tuned-Economics-QA-using-smolLM&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
-  <a href="https://github.com/AtulDeshpande09/Enterprise-RAG-Assistant"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulDeshpande09&repo=Enterprise-RAG-Assistant&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
-</p>
-<p align="left">
-<a href="https://github.com/AtulDeshpande09/huggingface-llm-course-notebooks"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulDeshpande09&repo=huggingface-llm-course-notebooks&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
-  <a href="https://github.com/AtulDeshpande09/AI_Quiz_generator"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=AtulDeshpande09&repo=AI_Quiz_generator&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!---
 AtulDeshpande09/AtulDeshpande09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
