@@ -18,13 +18,11 @@
 <p align="left"><a href="https://github.com/AtulDeshpande09" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a>
 <a href="https://www.linkedin.com/in/atul-deshpande-504898271" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Final-year AIML student | NLP + GenAI enthusiast |
-Building with LangChain, Hugging Face & modern ML tools</h3>**
+ **<h3 align="left">NLP GenAI Research</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">Well....</h3>**
 
-- 💼 I'm currently working on: **💻 RAG and instruction tuning**
-- 🌱 I'm currently learning: **⛓️ Langchain**, **💬 LLM**
+- 💼 I'm currently working on: **💻 Agentic AI 🤖**
 
  **<h3 align="left">GitHub Stats</h3>**
 
